@@ -6,7 +6,7 @@ Gem::Specification::new do |spec|
   spec.version = "0.0.0"
   spec.platform = Gem::Platform::RUBY
   spec.summary = "mob"
-  spec.description = "description: mob kicks the ass"
+  spec.description = "background jobs for mongoid"
 
   spec.files =
 ["Rakefile", "lib", "lib/mob.rb", "mob.gemspec"]
